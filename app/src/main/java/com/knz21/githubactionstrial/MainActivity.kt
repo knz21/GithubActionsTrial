@@ -14,7 +14,7 @@ import com.knz21.githubactionstrial.ui.theme.GithubActionsTrialTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
+        super.onCreate(savedInstanceState)aaa
         setContent {
             GithubActionsTrialTheme {
                 // A surface container using the 'background' color from the theme
